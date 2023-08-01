@@ -77,7 +77,7 @@
       "id": 2,
       "name": "Café americano",
       "price": 500,
-      "image": "https://raw.githubusercontent.com/ssinuco/burger-queen-api-mock/main/resources/images/coffee.png",
+      "image": "https://github.com/DeaGatell/DEV006-burger-queen-api-client/commit/4c00ea7a3bcf59e56e3c18585b7d5841c8d91b81",
       "type": "Desayuno",
       "dateEntry": "2022-03-05 15:14:10"
     },
