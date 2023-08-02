@@ -2,7 +2,7 @@ POST http://localhost:8080/login HTTP/1.1
 content-type: application/json
 
 {
-    "email": "grace.hopper@systers.xyz",
+    "email": "dea.gatell@bqueen.com",
     "password": "123456"
 }
 
@@ -40,12 +40,12 @@ authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImRlYS5nY
 //Para editar Productos // Hay que darle el id // ctrl+alt+r
 PATCH http://localhost:8080/products/2 HTTP/1.1
 content-type: application/json
-authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImRlYS5nYXRlbGxAYnF1ZWVuLmNvbSIsImlhdCI6MTY5MDkzMTcxOSwiZXhwIjoxNjkwOTM1MzE5LCJzdWIiOiIzIn0.PYI2yGlk55wbSHAduGGRiIuakxbmXzqz-xE4Ob1PwXA
+authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImRlYS5nYXRlbGxAYnF1ZWVuLmNvbSIsImlhdCI6MTY5MDkzNTYzNiwiZXhwIjoxNjkwOTM5MjM2LCJzdWIiOiIzIn0.sx9uerSrsjvtnAsQ4lB_qIeNkPNLErFtGgRrtixdQ1o
 
 {
 "name": "Café americano",
     "price": 500,
-    "image": "https://github.com/DeaGatell/DEV006-burger-queen-api-client/commit/4c00ea7a3bcf59e56e3c18585b7d5841c8d91b81",
+    "image": "",
     "type": "Desayuno"
 }
 
