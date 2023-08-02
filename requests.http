@@ -45,7 +45,7 @@ authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImRlYS5nY
 {
 "name": "Café americano",
     "price": 500,
-    "image": "",
+    "image": "https://raw.githubusercontent.com/ssinuco/burger-queen-api-mock/main/resources/images/coffee.png",
     "type": "Desayuno"
 }
 
